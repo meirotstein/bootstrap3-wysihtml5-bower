@@ -1,7 +1,7 @@
 {
-  "name": "bootstrap3-wysihtml5-bower",
+  "name": "bootstrap3-wysihtml5-bower-rtl",
   "version": "0.2.12-wip",
-  "description": "Bootstrap 3 compatible wysiwyg editor",
+  "description": "Bootstrap 3 compatible rtl wysiwyg editor",
   "directories": {
     "test": "test"
   },
@@ -20,16 +20,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/Waxolunist/bootstrap3-wysihtml5-bower.git"
+    "url": "https://github.com/meirotstein/bootstrap3-wysihtml5-bower-rtl"
   },
   "keywords": [
     "bootstrap",
     "wysiwyg"
   ],
-  "author": "Christian Sterzl <christian.sterzl@gmail.com>",
+  "author": "Meir Rotstein <meir@rotstein.co.il>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Waxolunist/bootstrap3-wysihtml5-bower/issues"
+    "url": "https://github.com/meirotstein/bootstrap3-wysihtml5-bower-rtl/issues"
   },
-  "homepage": "https://github.com/Waxolunist/bootstrap3-wysihtml5-bower"
+  "homepage": "https://github.com/meirotstein/bootstrap3-wysihtml5-bower-rtl"
 }

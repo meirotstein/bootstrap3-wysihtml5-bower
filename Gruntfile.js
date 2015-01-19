@@ -67,7 +67,8 @@ module.exports = function(grunt) {
       },
       minify: {
         files: {
-          'dist/bootstrap3-wysihtml5.min.css': ['src/bootstrap3-wysihtml5.css']
+          'dist/bootstrap3-wysihtml5.min.css': ['src/bootstrap3-wysihtml5.css'],
+          'dist/bootstrap3-wysihtml5.min-rtl.css': ['src/bootstrap3-wysihtml5-rtl.css']
         }
       }
     },

@@ -1,8 +1,8 @@
 {
-  "name": "bootstrap3-wysihtml5-bower",
-  "version": "0.2.12-wip",
+  "name": "bootstrap3-wysihtml5-bower-rtl",
+  "version": "0.2.12-wip-rtl",
   "main": [
-    "dist/bootstrap3-wysihtml5.min.css",
+    "dist/bootstrap3-wysihtml5.min-rtl.css",
     "dist/bootstrap3-wysihtml5.min.js"
   ],
   "dependencies": {
@@ -11,9 +11,9 @@
     "handlebars": "~1.3.0",
     "jquery": ">=1.9.0 <2.1.0"
   },
-  "homepage": "https://github.com/Waxolunist/bootstrap3-wysihtml5-bower",
+  "homepage": "https://github.com/meirotstein/bootstrap3-wysihtml5-bower-rtl",
   "authors": [
-    "Christian Sterzl <christian.sterzl@gmail.com>"
+    "Meir Rotstein <meir@rotstein.co.il>"
   ],
   "description": "Bootstrap 3 compatible wysiwyg editor",
   "keywords": [
