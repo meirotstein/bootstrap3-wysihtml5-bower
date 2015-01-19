@@ -1,6 +1,6 @@
 {
   "name": "bootstrap3-wysihtml5-bower-rtl",
-  "version": "0.2.12-wip-rtl",
+  "version": "0.1.0",
   "main": [
     "dist/bootstrap3-wysihtml5.min-rtl.css",
     "dist/bootstrap3-wysihtml5.min.js"
